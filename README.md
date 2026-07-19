@@ -153,4 +153,4 @@ SQL • Power BI • Python • Databricks
 
 LinkedIn: www.linkedin.com/in/alussemin
 
-GitHub
+GitHub: https://github.com/Al-Ousseimine/SportsStats-Analytics.git
